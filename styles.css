@@ -3,6 +3,7 @@ body {
 }
 
 reddit-article {
+  display: table;
   padding: 10px;
 }
 
